@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/genki_suzuki/.android/build-cache/afcc91b06e8889ddc95a9d831d41f78b2cd443d8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30a4938ea5235ccf532b3e9f04200e68547e36ad">
+        <dex dex="/Users/genki_suzuki/AndroidstudioProjects/devisoft/GridDecoratoinTest/app/build/intermediates/pre-dexed/debug/classes_0ccac9b6720f55c35291182d5b4e5d0c362d8ed5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/genki_suzuki/Documents/adt-bundle-mac-x86_64-20140702/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.1/constraint-layout-solver-1.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1ad79631209e77b0a2730fc112b4cc0c66a95132">
+        <dex dex="/Users/genki_suzuki/AndroidstudioProjects/devisoft/GridDecoratoinTest/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.1_fadfc461c71299cb184e0a0d942e01b6562187ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/genki_suzuki/.android/build-cache/2007dae810f3b52d711f2d5e8882625778eb527a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7113302c965566b66df46c6ca75ea301576114a5">
+        <dex dex="/Users/genki_suzuki/AndroidstudioProjects/devisoft/GridDecoratoinTest/app/build/intermediates/pre-dexed/debug/classes_c9a60b52f086e5b6248752b8d8691e6effedcbd6.jar" />
+    </item>
+
+</items>
